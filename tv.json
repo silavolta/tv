@@ -1,0 +1,223 @@
+[    {
+   "userId": 1,
+   "id": 1,
+   "nameTV": "Cолнце",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8",
+   "completed": false
+   },
+  {
+   "userId": 1,
+   "id": 2,
+   "nameTV": "Мулт",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8",
+   "completed": false
+  },
+     {
+       "userId": 1,
+       "id": 3,
+       "nameTV": "РЕН ТВ HD",
+       "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8",
+       "completed": false
+   },
+    {
+       "userId": 1,
+       "id": 4,
+       "nameTV": "ТВ3 HD",
+       "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8",
+       "completed": false
+   }, 
+    {
+       "userId": 1,
+       "id": 5,
+       "nameTV": "ТНТ4",
+       "TV_URL": "https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8", 
+       "completed": false
+   },
+     
+    {
+       "userId": 1,
+       "id": 6,
+       "nameTV": "ПЯТЫЙ ",
+       "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8", 
+       "completed": false
+   },
+    {
+       "userId": 1,
+       "id": 7,
+       "nameTV": "ТНТ4",
+       "TV_URL": "https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8", 
+       "completed": false
+   },
+    {
+       "userId": 1,
+       "id": 8,
+       "nameTV": "Пятница HD",
+       "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8",
+       "completed": false
+   },
+    {
+       "userId": 1,
+       "id": 9,
+       "nameTV": "СТС",
+       "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8",
+       "completed": false
+   },
+    {
+       "userId": 1,
+       "id": 10,
+       "nameTV": "ТНТ",
+       "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8",
+       "completed": false
+   },
+ 
+   {
+       "userId": 1,
+       "id": 11,
+       "nameTV": "HTB",
+       "TV_URL": "https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8",
+       "completed": false
+   },
+    {
+       "userId": 1,
+       "id": 12,
+       "nameTV": "live",
+       "TV_URL": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8",
+       "completed": false
+   },
+  {
+     "userId": 1,
+     "id": 13,
+     "nameTV": "Детям",
+     "TV_URL": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8",
+     "completed": false
+  },
+  {
+     "userId": 1,
+     "id": 14,
+     "nameTV": "Новости 360",
+     "TV_URL": "https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8",
+     "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 15,
+   "nameTV": "Теледом ТВ HD",
+   "TV_URL": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 16,
+   "nameTV": "ТВЦ",
+   "TV_URL": "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 17,
+   "nameTV": "Мультфильм",
+   "TV_URL": "https://cdn-cache01.voka.tv/live/6007.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 18,
+   "nameTV": "Звезда",
+   "TV_URL": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 19,
+   "nameTV": "Позновательный",
+   "TV_URL": "http://retj.educom.ru/mosobrtv/tv1/index.m3u8",
+   "completed": false
+  }
+ ,
+  {
+   "userId": 1,
+   "id": 20,
+   "nameTV": "Позновательный2",
+   "TV_URL": "http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 21,
+   "nameTV": "Россия 24",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 22,
+   "nameTV": "1ТВ1000",
+   "TV_URL": "http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 23,
+   "nameTV": "ТВ1000 HD",
+   "TV_URL": "http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 24,
+   "nameTV": "KINO ЗАЛ 1",
+   "TV_URL": "https://v2.catcast.tv/content/37925/index.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 25,
+   "nameTV": "KINO1",
+   "TV_URL": "http://stream.backustv.ru/live/btv2/index.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 26,
+   "nameTV": "KINO2",
+   "TV_URL": "http://stream.backustv.ru/live/btv/index.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 27,
+   "nameTV": "KINO3",
+   "TV_URL": "http://stream.backustv.ru/live/btv/index.m3u8",
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 28,
+   "nameTV": "Dorama_HD",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/Dorama_HD/playlist.m3u8", 
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 29,
+   "nameTV": "Comedy",
+   "TV_URL":"https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8", 
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 30,
+   "nameTV": "TV1000 Русское кино",
+   "TV_URL":"https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8", 
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 31,
+   "nameTV": "VIP_Megahit_HD",
+   "TV_URL":"https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8", 
+   "completed": false
+  }
+
+  
+]
