@@ -1,8 +1,15 @@
-[    {
+[     {
+   "userId": 1,
+   "id": 0,
+   "nameTV": "Russia1",
+   "TV_URL": "https://m3url.ru/880750.m3u",
+   "completed": false
+   },
+   {
    "userId": 1,
    "id": 1,
    "nameTV": "Cолнце",
-   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8", 
    "completed": false
    },
   {
@@ -130,10 +137,9 @@
    "userId": 1,
    "id": 19,
    "nameTV": "Позновательный",
-   "TV_URL": "http://retj.educom.ru/mosobrtv/tv1/index.m3u8",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8",
    "completed": false
-  }
- ,
+  },
   {
    "userId": 1,
    "id": 20,
@@ -151,43 +157,43 @@
   {
    "userId": 1,
    "id": 22,
-   "nameTV": "1ТВ1000",
-   "TV_URL": "http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8",
+   "nameTV": "1 ТВ1000",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8",
    "completed": false
   },
   {
    "userId": 1,
    "id": 23,
-   "nameTV": "ТВ1000 HD",
-   "TV_URL": "http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8",
+   "nameTV": "2 ТВ1000",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8",
    "completed": false
   },
   {
    "userId": 1,
    "id": 24,
-   "nameTV": "KINO ЗАЛ 1",
-   "TV_URL": "https://v2.catcast.tv/content/37925/index.m3u8",
+   "nameTV": "3 ТВ1000",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8",
    "completed": false
   },
   {
    "userId": 1,
    "id": 25,
-   "nameTV": "KINO1",
-   "TV_URL": "http://stream.backustv.ru/live/btv2/index.m3u8",
+   "nameTV": "Rus_Kino_HD",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8",
    "completed": false
   },
   {
    "userId": 1,
    "id": 26,
-   "nameTV": "KINO2",
-   "TV_URL": "http://stream.backustv.ru/live/btv/index.m3u8",
+   "nameTV": "RED",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8",
    "completed": false
   },
   {
    "userId": 1,
    "id": 27,
-   "nameTV": "KINO3",
-   "TV_URL": "http://stream.backustv.ru/live/btv/index.m3u8",
+   "nameTV": "START",
+   "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8",
    "completed": false
   },
   {
@@ -217,7 +223,40 @@
    "nameTV": "VIP_Megahit_HD",
    "TV_URL":"https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8", 
    "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 32,
+   "nameTV": "VIP_Serial",
+   "TV_URL":"https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8", 
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 33,
+   "nameTV": "VIP_Premiere",
+   "TV_URL":"https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8", 
+   "completed": false
+  },
+  {
+   "userId": 1,
+   "id": 34,
+   "nameTV": "A2_HD",
+   "TV_URL":"https://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8", 
+   "completed": false 
+  },
+  {
+   "userId": 1,
+   "id": 35,
+   "nameTV": "Че",
+   "TV_URL":"https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8", 
+   "completed": false 
+  },
+  {
+   "userId": 1,
+   "id": 36,
+   "nameTV": "Карусель",
+   "TV_URL":"https://hd.kinopoisk.ru/channels?channelCategoryTab=4&openedChannelId=44bacd2c139817b0802741d0e7e1f755", 
+   "completed": false 
   }
-
-  
 ]
