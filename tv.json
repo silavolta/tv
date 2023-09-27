@@ -1,5 +1,4 @@
-[  
-   {
+[     {
    "userId": 1,
    "id": 0,
    "nameTV": "Russia1",
@@ -20,7 +19,7 @@
    "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8",
    "completed": false
   },
-  {
+     {
        "userId": 1,
        "id": 3,
        "nameTV": "РЕН ТВ HD",
@@ -41,7 +40,6 @@
        "TV_URL": "https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8", 
        "completed": false
    },
-     
     {
        "userId": 1,
        "id": 6,
@@ -77,6 +75,7 @@
        "TV_URL": "https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8",
        "completed": false
    },
+ 
    {
        "userId": 1,
        "id": 11,
